@@ -1,0 +1,12 @@
+Reference,Value,Footprint,Quantity
+U1,XIAO-RP2040-DIP,Seeed XIAO RP2040,1
+D1,SK6812MINI,SK6812MINI,1
+D2,SK6812MINI,SK6812MINI,1
+SW1,MX-Style Switch,SW_Push,1
+SW2,MX-Style Switch,SW_Push,1
+SW3,MX-Style Switch,SW_Push,1
+SW4,MX-Style Switch,SW_Push,1
+KC1,MX-Style Keycap,,1
+KC2,MX-Style Keycap,,1
+KC3,MX-Style Keycap,,1
+KC4,MX-Style Keycap,,1
