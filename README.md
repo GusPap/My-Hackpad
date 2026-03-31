@@ -20,5 +20,5 @@ My friends told me about Hack Club Blueprint and suggested I do a guided project
 ![PCB Trace Layout](Images/PCB.png)
 ![PCB 3D Render](Images/PCB_3D.png)
 
-#### 3D Printed Case
+#### Case
 ![Fusion 360 Case](Images/Case.png)
